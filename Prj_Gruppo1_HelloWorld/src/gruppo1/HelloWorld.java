@@ -8,6 +8,8 @@ public class HelloWorld {
 		System.out.println("Ciao sono Paolo Carena");
 		System.out.println("Ciao sono Pietro Chiartano");
 		System.out.println("Ciao sono Simone Oliva");
+		System.out.println("Ciao sono Stefano Saldana");
+
 
 	}
 
